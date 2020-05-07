@@ -5,7 +5,7 @@ color: yellow;
 }
 body
 {
-background-image: url('/Users/kimberlyfernandez/Desktop/retroo.jpg');
+background-image: url('retroo.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
