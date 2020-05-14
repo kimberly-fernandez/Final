@@ -4,9 +4,8 @@ p{
 margin-left: 30px;
 color: yellow;
 }
-body
-{
-  <!-- Instance 2: Image of the gym -->
+<!-- Instance 2: Image of the gym -->
+body {
 background-image: url('retroo.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
